@@ -1,9 +1,19 @@
-<h1 align="center">Hey 👋, I'm Sahaj Sharma</h1>
-<h3 align="center">Co-CEO @ Bits And Bytes • Full Stack Web Developer • UI/UX Designer • Aspiring Tech Leader</h3>
+<p align="center">
+  <img src="assets/banner.gif" alt="Tech Banner" width="100%" />
+</p>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Hello+World%2C+I'm+Sahaj+Sharma!;Full+Stack+Web+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Creative+Tech+Visionary+%F0%9F%92%A1" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer+🚀;UI/UX+Design+Specialist+🎨;Creative+Technologist+💡;Coding+With+Style+%F0%9F%92%BC" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/Tech%20Stack-%F0%9F%92%BB-blueviolet?style=for-the-badge&logo=codeberg&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Designs%20in-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Codes%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Loves%20-%20Coffee%20%26%20Code-ff6b81?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
 </p>
+
+
 
 ---
 
