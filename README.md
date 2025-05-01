@@ -1,48 +1,85 @@
-<h1 align="center">Hi 👋, I'm Sahaj Sharma </h2>
-<h3 align="center">A Passionate Full Stack Web Developer</h4>
+<h1 align="center">Hey 👋, I'm Sahaj Sharma</h1>
+<h3 align="center">Co-CEO @ Bits And Bytes • Full Stack Web Developer • UI/UX Designer • Aspiring Tech Leader</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+Something+New&center=true&width=380&height=45">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Web+Developer+🚀;UI/UX+Design+Specialist+🎨;Creative+Technologist+💡;Coding+With+Style+%F0%9F%92%BC" alt="Typing SVG" />
 </p>
 
 ---
 
-- 🔭 I’m currently working on **personal and freelance web projects**
-- 🌱 I’m learning **Next.js, TypeScript, and DevOps tools**
-- 👯 I’m looking to collaborate on **Open Source and Startup ideas**
-- 💬 Ask me about **React, Node.js, MongoDB, or Tailwind CSS**
-- 📫 How to reach me: **ssahaj646@gmail.com**
+### 🔍 About Me
 
-
----
-
-### 🛠️ Tech Stack
-
-#### 👨‍💻 Frontend
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=fff&style=flat)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=fff&style=flat)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=000&style=flat)
-![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=000&style=flat)
-![Tailwind CSS](https://img.shields.io/badge/-Tailwind-38B2AC?logo=tailwind-css&logoColor=fff&style=flat)
-
-#### 🧠 Backend
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=fff&style=flat)
-![Express](https://img.shields.io/badge/-Express-black?logo=express&logoColor=white&style=flat)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=fff&style=flat)
-
-#### ⚙️ Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=fff&style=flat)
-![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=fff&style=flat)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=fff&style=flat)
+- 🎓 B.Tech CSE Student @ VIT Bhopal (2023–2027)
+- 🛠️ Co-CEO @ **Bits And Bytes**
+- 🌐 Interned as Full Stack Dev @ **Cohesive Technologies** & Frontend Dev @ **GATEPAX AI**
+- 💡 Passionate about building performant, responsive & visually stunning web apps
+- 🎥 Love film photography, VFX, music production, astrophysics, football & hiking
 
 ---
 
+### 💼 Experience Highlights
+
+- **Bits And Bytes** *(Feb 2024 – Present)*  
+  `Co-CEO` • `Full Stack Dev` • `UI/UX Designer`  
+  → Built animated, professional-grade websites with GSAP & Figma
+
+- **Cohesive Technologies** *(Sep – Dec 2023)*  
+  `Full Stack Intern`  
+  → Scaled MongoDB backend to handle 20× traffic, reduced Node API latency by 33%
+
+- **GATEPAX AI** *(Aug – Nov 2024)*  
+  `Frontend Intern`  
+  → Created lightning-fast UIs with React and optimized user flows
+
+- **Accenture** *(Mar – May 2023)*  
+  `Strategic Consultant Intern`  
+  → Learned client-driven problem-solving and teamwork on real-world business cases
 
 ---
 
-### 📫 Connect With Me
-<p align="left">
-  <a href="https://www.linkedin.com/in/sahaj-sharma-ba8464315//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:ssahaj646@gmail.com.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
-  <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white" /></a>
+### 🧠 Tech Stack
+
+#### 🖥️ Languages
+`C++` • `Python` • `JavaScript` • `Java` • `Ruby` • `SQL` • `C#`
+
+#### ⚛️ Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
+![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
+![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
+
+#### 🛠 Backend & DB
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
+![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
+
+#### ☁️ Tools & DevOps
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
+![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&theme=tokyonight&show_icons=true" height="160"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="160"/>
 </p>
+
+---
+
+### 🔗 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/your-linkedin)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ssahaj646@gmail.com)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio.com)
+
+---
+
+### ✨ Fun Fact
+
+> “Code is my canvas. Creativity is my tool. The web is my gallery.” 🎨
+
