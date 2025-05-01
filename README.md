@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm [Your Name]</h1>
-<h3 align="center">A Passionate Full Stack Web Developer</h3>
+<h1 align="center">Hi 👋, I'm Sahaj Sharma </h2>
+<h3 align="center">A Passionate Full Stack Web Developer</h4>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?lines=Full+Stack+Web+Developer;MERN+Stack+Enthusiast;Always+Learning+Something+New&center=true&width=380&height=45">
@@ -11,8 +11,8 @@
 - 🌱 I’m learning **Next.js, TypeScript, and DevOps tools**
 - 👯 I’m looking to collaborate on **Open Source and Startup ideas**
 - 💬 Ask me about **React, Node.js, MongoDB, or Tailwind CSS**
-- 📫 How to reach me: **[your.email@example.com]**
-- 🌐 Portfolio: [your-portfolio-link.com](https://your-portfolio-link.com)
+- 📫 How to reach me: **ssahaj646@gmail.com**
+
 
 ---
 
@@ -37,19 +37,12 @@
 
 ---
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Your GitHub stats" />
-  <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-username&theme=radical" alt="GitHub Streak" />
-</p>
 
 ---
 
 ### 📫 Connect With Me
 <p align="left">
-  <a href="https://www.linkedin.com/in/your-linkedin/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/sahaj-sharma-ba8464315//" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:ssahaj646@gmail.com.com"><img src="https://img.shields.io/badge/Email-red?logo=gmail&logoColor=white" /></a>
   <a href="https://your-portfolio-link.com"><img src="https://img.shields.io/badge/Portfolio-black?logo=firefox&logoColor=white" /></a>
 </p>
