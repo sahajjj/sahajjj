@@ -1,95 +1,136 @@
+<!-- ──────────────────────────────── Banner ──────────────────────────────── -->
 <p align="center">
-  <img src="assets/banner.gif" alt="Tech Banner" width="100%" />
+  <img src="assets/banner.gif" width="100%" alt="Tech Banner"/>
 </p>
 
+<!-- ──────────────────────────────── Title ──────────────────────────────── -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=1000&color=00FFF7&center=true&vCenter=true&width=800&lines=Hello+World%2C+I'm+Sahaj+Sharma!;Full+Stack+Web+Developer+%F0%9F%92%BB;UI%2FUX+Designer+%F0%9F%8E%A8;Creative+Tech+Visionary+%F0%9F%92%A1" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&weight=700&size=38&pause=1200&color=00FFF7&center=true&vCenter=true&width=900&lines=Hi+I'm+Sahaj+Sharma!;Full+Stack+Engineer+%F0%9F%93%9A;UI%2FUX+Designer+%F0%9F%8E%A8;Building+Scalable+Digital+Experiences" alt="Typing SVG" />
 </h1>
 
+<!-- ──────────────────────────────── Animated Info Badges ──────────────────────────────── -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Tech%20Stack-%F0%9F%92%BB-blueviolet?style=for-the-badge&logo=codeberg&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Designs%20in-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Codes%20with-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Loves%20-%20Coffee%20%26%20Code-ff6b81?style=for-the-badge&logo=buymeacoffee&logoColor=white"/>
-</p>
-
-
-
----
-
-### 🔍 About Me
-
-- 🎓 B.Tech CSE Student @ VIT Bhopal (2023–2027)
-- 🛠️ Co-CEO @ **Bits And Bytes**
-- 🌐 Interned as Full Stack Dev @ **Cohesive Technologies** & Frontend Dev @ **GATEPAX AI**
-- 💡 Passionate about building performant, responsive & visually stunning web apps
-- 🎥 Love film photography, VFX, music production, astrophysics, football & hiking
-
----
-
-### 💼 Experience Highlights
-
-- **Bits And Bytes** *(Feb 2024 – Present)*  
-  `Co-CEO` • `Full Stack Dev` • `UI/UX Designer`  
-  → Built animated, professional-grade websites with GSAP & Figma
-
-- **Cohesive Technologies** *(Sep – Dec 2023)*  
-  `Full Stack Intern`  
-  → Scaled MongoDB backend to handle 20× traffic, reduced Node API latency by 33%
-
-- **GATEPAX AI** *(Aug – Nov 2024)*  
-  `Frontend Intern`  
-  → Created lightning-fast UIs with React and optimized user flows
-
-- **Accenture** *(Mar – May 2023)*  
-  `Strategic Consultant Intern`  
-  → Learned client-driven problem-solving and teamwork on real-world business cases
-
----
-
-### 🧠 Tech Stack
-
-#### 🖥️ Languages
-`C++` • `Python` • `JavaScript` • `Java` • `Ruby` • `SQL` • `C#`
-
-#### ⚛️ Frontend
-![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
-![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular)
-![Tailwind](https://img.shields.io/badge/-Tailwind-38B2AC?style=flat-square&logo=tailwind-css)
-![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma)
-
-#### 🛠 Backend & DB
-![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
-![Express](https://img.shields.io/badge/-Express-black?style=flat-square&logo=express)
-![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql)
-
-#### ☁️ Tools & DevOps
-![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
-![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=linux)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&theme=tokyonight&show_icons=true" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=tokyonight" height="160"/>
+  <img src="https://img.shields.io/badge/Full%20Stack%20Developer-%2300ffee?style=for-the-badge&logo=github&logoColor=black"/>
+  <img src="https://img.shields.io/badge/React%20%7C%20Next.js-%2300f0ff?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Node%20%7C%20TypeScript-%23FFD700?style=for-the-badge&logo=nodedotjs&logoColor=black"/>
+  <img src="https://img.shields.io/badge/AWS%20%7C%20GCP-%23ff6b81?style=for-the-badge&logo=googlecloud&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Designs%20in-Figma-%23F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
 </p>
 
 ---
 
-### 🔗 Connect With Me
+# 🌌 **About Me**
+I’m a **Software Engineer | Full Stack Developer | UI/UX Designer** who loves crafting  
+**high-performance systems, seamless user experiences, and visually creative products**.
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/https://www.linkedin.com/in/sahaj-sharma-ba8464315/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ssahaj646@gmail.com)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=flat-square&logo=firefox&logoColor=white)](https://your-portfolio.com)
+✨ *My goal is simple: build things that feel fast, look stunning, and solve real problems.*
 
 ---
 
-### ✨ Fun Fact
+# 💼 **Experience**
 
-> “Code is my canvas. Creativity is my tool. The web is my gallery.” 🎨
+### 🔹 **Gatepax AI — Frontend Developer (Part-Time)**  
+📅 *Sept 2024 – Nov 2024*  
+- Built **pixel-perfect**, scalable UI for an app with **500k+ daily users**  
+- Migrated 150+ AngularJS components to React → **40% lighter bundle & 55% faster rendering**  
+- Automated scheduling → **70% faster workflow**
 
+---
+
+### 🔹 **Bits And Bytes — Co-CEO | Full Stack Developer**  
+📅 *Mar 2024 – Aug 2024*  
+- Built a scalable Ember.js + Node.js app → load times **↑ 25% faster**  
+- Used Glimmer engine → **15% smoother UI interactions**  
+- Integrated Google Sheets DB → **90% cost reduction**
+
+---
+
+### 🔹 **Cohesive Technologies — Full Stack Developer Intern**  
+📅 *Sept 2023 – Dec 2023*  
+- Built 3 new features → user engagement **↑ 15%**  
+- Fixed 50+ critical issues → stability **↑ 25%**  
+- Optimized API & DB retrieval **↑ 10%**
+
+---
+
+### 🔹 **Motherson Technology Services — Full Stack Intern**  
+📅 *Sept 2025 – Dec 2025*  
+- Delivered new features using React & Node  
+- Fixed 50+ bugs → stability **↑ 25%**  
+- Improved backend data retrieval **↑ 10%**
+
+---
+
+# 🧠 **Tech Stack**
+
+## ⚡ Languages  
+`C/C++` • `Python` • `TypeScript` • `JavaScript` • `Java` • `Go` • `Ruby` • `SQL` • `C#` • `Shell`
+
+## 🎨 Frontend  
+`React` • `Next.js` • `Angular` • `Ember.js` • `Tailwind` • `Figma`
+
+## 🔥 Backend  
+`Node.js` • `Express` • `Django` • `Ruby on Rails`
+
+## 🗄 Databases  
+`MongoDB` • `MySQL` • `PostgreSQL` • `Redis`
+
+## ⚙ DevOps  
+`Docker` • `AWS` • `GCP` • `Kubernetes` • `Jenkins` • `Linux`
+
+---
+
+# 🚀 Featured Projects with Impact
+
+### 🫀 **AI Cardio Health Generator**
+✔ Boosted predictive accuracy by **25%**  
+✔ Reduced navigation time by **30%**  
+✔ High-impact ML + UI integration  
+
+---
+
+### 💊 **PrisciBio**
+✔ UI redesign → engagement **+30%**  
+✔ Added analytics system for smarter decisions  
+✔ Testing reduced bugs **25%**
+
+---
+
+### 🧹 **Serve Smart**
+✔ Led team of 5 developers  
+✔ Increased operational efficiency **30%**  
+✔ Built system adopted across departments  
+
+---
+
+# 🏆 **Certifications**
+- Cisco — **Python Essentials**  
+- IBM — **Python 101 for Data Science**  
+- Great Learning — **Advanced Java**, **Advanced SQL**, **Advanced Cyber Security**  
+- CodeChef — **Advanced C++**
+
+---
+
+# 📊 **GitHub Stats (Animated)**  
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=sahajjj&show_icons=true&theme=tokyonight&hide_border=false&rank_icon=github"/>
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=sahajjj&theme=tokyonight&hide_border=false"/>
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sahajjj&theme=dracula&no-frame=true&row=1&margin-w=15" />
+</p>
+
+---
+
+# 🔗 Connect With Me  
+<p align="center">
+  <a href="https://www.linkedin.com/in/sahaj-sharma-ba8464315/"><img src="https://img.shields.io/badge/LinkedIn-0077b5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="mailto:ssahaj646@gmail.com"><img src="https://img.shields.io/badge/Email-d14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://github.com/sahajjj"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/></a>
+</p>
+
+---
+
+# ✨ **Fun Fact**
+> “Coding is my medium. Creativity is my power. The web is my playground.” 🎨
